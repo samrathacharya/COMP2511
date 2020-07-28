@@ -1,0 +1,7 @@
+{
+  "venue": "Zoo",
+  "rooms": ["Penguin"],
+  "status": "success"
+}
+{"status": "rejected"}
+

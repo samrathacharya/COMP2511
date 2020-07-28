@@ -1,0 +1,75 @@
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Hippo",
+    "Elephant"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Hippo",
+    "Elephant"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Hippo",
+    "Elephant"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2019-03-26",
+        "end": "2019-03-26",
+        "id": "Vivid"
+      },
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-29",
+        "id": "Annual Meeting"
+      }
+    ],
+    "room": "Penguin"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-03-26",
+        "end": "2019-03-26",
+        "id": "Vivid"
+      },
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-29",
+        "id": "Annual Meeting"
+      }
+    ],
+    "room": "Hippo"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-03-26",
+        "end": "2019-03-26",
+        "id": "Vivid"
+      },
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-29",
+        "id": "Annual Meeting"
+      }
+    ],
+    "room": "Elephant"
+  }
+]
+
